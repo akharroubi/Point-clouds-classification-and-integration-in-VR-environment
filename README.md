@@ -1,0 +1,2 @@
+# Point-clouds-classification-and-integration-in-VR-environment
+Ce projet est développé dans le cadre de mon travail de fin d'étude à l'université de Liège, unité de géomatique pour l'obtention de diplôme d'ingénieur en sciences géomatiques et ingénierie topographique à l'institut agronomique et vétérinaire Hassan 2. il consiste à la classification des nuages de points massifs pour l'ajout de l’information sémantique, et l’intégration dans un environnement de réalité virtuelle à l'aide de l'oculus Rift.
